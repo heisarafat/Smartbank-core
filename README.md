@@ -55,4 +55,4 @@ Data quality auditing simulations in financial services
 
 🚀 Author
 Ibitoye Arafah Ibitayo
-Junior Scientist | SQL • Python 
+Junior Data Scientist | SQL • Python 
