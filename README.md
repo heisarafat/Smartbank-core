@@ -6,6 +6,7 @@ A comprehensive SQL analysis project designed to extract insights, enforce data 
 This project simulates a real-world financial database and demonstrates how structured queries can power operational insights and fraud detection in the banking sector. It spans key areas including customer profiling, transaction analysis, branch operations, and data integrity audits.
 
 🧠 Key Problems Solved
+
 👥 Customer & Account Insights
 Identified customers with multiple accounts to understand multi-product adoption.
 
